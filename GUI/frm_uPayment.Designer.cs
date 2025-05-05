@@ -75,7 +75,7 @@
             this.lb_id.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_id.Location = new System.Drawing.Point(16, 652);
             this.lb_id.Name = "lb_id";
-            this.lb_id.Size = new System.Drawing.Size(89, 18);
+            this.lb_id.Size = new System.Drawing.Size(74, 15);
             this.lb_id.TabIndex = 42;
             this.lb_id.Text = "Unknown ID";
             // 
@@ -121,7 +121,7 @@
             this.label7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(1)))), ((int)(((byte)(98)))), ((int)(((byte)(115)))));
             this.label7.Location = new System.Drawing.Point(462, 91);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(60, 36);
+            this.label7.Size = new System.Drawing.Size(49, 29);
             this.label7.TabIndex = 33;
             this.label7.Text = "2/2";
             // 
@@ -133,7 +133,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(14, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(329, 36);
+            this.label1.Size = new System.Drawing.Size(268, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "PAYMENT PROCESS";
             // 
@@ -180,18 +180,18 @@
             // lbbank
             // 
             this.lbbank.AutoSize = true;
-            this.lbbank.Location = new System.Drawing.Point(43, 392);
+            this.lbbank.Location = new System.Drawing.Point(42, 397);
             this.lbbank.Name = "lbbank";
-            this.lbbank.Size = new System.Drawing.Size(69, 20);
+            this.lbbank.Size = new System.Drawing.Size(55, 15);
             this.lbbank.TabIndex = 62;
             this.lbbank.Text = "Bank QR";
             // 
             // lbcash
             // 
             this.lbcash.AutoSize = true;
-            this.lbcash.Location = new System.Drawing.Point(42, 352);
+            this.lbcash.Location = new System.Drawing.Point(42, 357);
             this.lbcash.Name = "lbcash";
-            this.lbcash.Size = new System.Drawing.Size(42, 20);
+            this.lbcash.Size = new System.Drawing.Size(32, 15);
             this.lbcash.TabIndex = 61;
             this.lbcash.Text = "Cash";
             // 
@@ -232,7 +232,7 @@
             this.label8.AutoSize = true;
             this.label8.Location = new System.Drawing.Point(12, 314);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(130, 20);
+            this.label8.Size = new System.Drawing.Size(103, 15);
             this.label8.TabIndex = 58;
             this.label8.Text = "Payment method";
             // 
@@ -260,7 +260,7 @@
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(283, 141);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(112, 20);
+            this.label6.Size = new System.Drawing.Size(89, 15);
             this.label6.TabIndex = 56;
             this.label6.Text = "Phone number";
             // 
@@ -288,7 +288,7 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 139);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(47, 20);
+            this.label4.Size = new System.Drawing.Size(36, 15);
             this.label4.TabIndex = 54;
             this.label4.Text = "Email";
             // 
@@ -316,7 +316,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(283, 53);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(77, 20);
+            this.label2.Size = new System.Drawing.Size(60, 15);
             this.label2.TabIndex = 52;
             this.label2.Text = "Lastname";
             // 
@@ -344,7 +344,7 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(12, 227);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(66, 20);
+            this.label5.Size = new System.Drawing.Size(51, 15);
             this.label5.TabIndex = 50;
             this.label5.Text = "Address";
             // 
@@ -372,7 +372,7 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(10, 54);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 20);
+            this.label3.Size = new System.Drawing.Size(62, 15);
             this.label3.TabIndex = 47;
             this.label3.Text = "Firstname";
             // 
@@ -382,7 +382,7 @@
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(581, 131);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(81, 29);
+            this.label11.Size = new System.Drawing.Size(64, 24);
             this.label11.TabIndex = 44;
             this.label11.Text = "Order";
             // 
@@ -402,7 +402,7 @@
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(582, 197);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(136, 22);
+            this.label12.Size = new System.Drawing.Size(116, 18);
             this.label12.TabIndex = 46;
             this.label12.Text = "Product Name";
             // 
@@ -412,7 +412,7 @@
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.Location = new System.Drawing.Point(815, 197);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(85, 22);
+            this.label13.Size = new System.Drawing.Size(70, 18);
             this.label13.TabIndex = 47;
             this.label13.Text = "Quantity";
             // 
@@ -422,7 +422,7 @@
             this.lb_pname.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_pname.Location = new System.Drawing.Point(594, 228);
             this.lb_pname.Name = "lb_pname";
-            this.lb_pname.Size = new System.Drawing.Size(104, 18);
+            this.lb_pname.Size = new System.Drawing.Size(89, 15);
             this.lb_pname.TabIndex = 48;
             this.lb_pname.Text = "Loading Name";
             // 
@@ -432,7 +432,7 @@
             this.lb_quantity.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_quantity.Location = new System.Drawing.Point(829, 228);
             this.lb_quantity.Name = "lb_quantity";
-            this.lb_quantity.Size = new System.Drawing.Size(118, 18);
+            this.lb_quantity.Size = new System.Drawing.Size(99, 15);
             this.lb_quantity.TabIndex = 49;
             this.lb_quantity.Text = "Loading Quantity";
             // 
@@ -442,7 +442,7 @@
             this.lb_price.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_price.Location = new System.Drawing.Point(594, 296);
             this.lb_price.Name = "lb_price";
-            this.lb_price.Size = new System.Drawing.Size(98, 18);
+            this.lb_price.Size = new System.Drawing.Size(83, 15);
             this.lb_price.TabIndex = 50;
             this.lb_price.Text = "Loading Price";
             // 
@@ -452,7 +452,7 @@
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(582, 268);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(56, 22);
+            this.label17.Size = new System.Drawing.Size(47, 18);
             this.label17.TabIndex = 51;
             this.label17.Text = "Price";
             // 
@@ -472,7 +472,7 @@
             this.lb_totalPrice.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_totalPrice.Location = new System.Drawing.Point(581, 368);
             this.lb_totalPrice.Name = "lb_totalPrice";
-            this.lb_totalPrice.Size = new System.Drawing.Size(242, 29);
+            this.lb_totalPrice.Size = new System.Drawing.Size(191, 24);
             this.lb_totalPrice.TabIndex = 53;
             this.lb_totalPrice.Text = "Loading Total Price";
             // 
@@ -481,7 +481,7 @@
             this.lb_dateOrder.AutoSize = true;
             this.lb_dateOrder.Location = new System.Drawing.Point(661, 136);
             this.lb_dateOrder.Name = "lb_dateOrder";
-            this.lb_dateOrder.Size = new System.Drawing.Size(165, 22);
+            this.lb_dateOrder.Size = new System.Drawing.Size(134, 18);
             this.lb_dateOrder.TabIndex = 54;
             this.lb_dateOrder.Text = "Loading Order date";
             // 
@@ -492,7 +492,7 @@
             // 
             // frm_uPayment
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 22F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(234)))), ((int)(((byte)(247)))), ((int)(((byte)(251)))));
             this.ClientSize = new System.Drawing.Size(957, 681);
